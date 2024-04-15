@@ -12,7 +12,7 @@ public class BaseClassTest {
 	@Test
 	public void test1()
 	{
-		System.out.println("Test Script 1");
+		System.out.println("Test Script 1");//git changes
 	}
 	
 	@BeforeClass
