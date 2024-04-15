@@ -55,7 +55,7 @@ public class CreateNewUserAccountTest extends BaseClass{
 		userAuthPage.userLogin(emailAdd, password);
 		
 		userHomePage.clickOnLogoutButton();
-		//welcome
+
 
 	}
 	
